@@ -1,3 +1,9 @@
+<!--
+ * @Author: Youzege
+ * @Date: 2022-12-26 18:28:36
+ * @LastEditors: Youzege
+ * @LastEditTime: 2022-12-26 23:26:03
+-->
 <script setup>
 import Upload from './index.vue'
 </script>
@@ -30,6 +36,6 @@ import Upload from './index.vue'
 
 ::: details 查看代码
 
-<<< @/front-end/pure-fe/upload/composables/useFragmentUpload.ts
+<<< @/front-end/pure-fe/upload/composables/useFragmentUpload/useFragmentUpload.ts
 
 :::
